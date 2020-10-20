@@ -1,0 +1,15 @@
+{
+    "name": "rendi/introduce_composer",
+    "description": "import package to project",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "rendi",
+            "email": "saputrarendi9966@gmail.com"
+        }
+    ]
+}
